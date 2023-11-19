@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: **I have a cat named Nacho**
 
-- Softuni certificates:
+----------- Softuni certificates -----------
 - PB: https://softuni.bg/certificates/details/193162/f324c3ed
 
 <h3 align="left">Connect with me:</h3>
