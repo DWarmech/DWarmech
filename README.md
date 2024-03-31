@@ -5,6 +5,7 @@
 
 ----------- Softuni certificates -----------
 - PB: https://softuni.bg/certificates/details/193162/f324c3ed
+- Fundamentals: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
